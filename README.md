@@ -8,4 +8,4 @@ This is a perfect competition to get started with Natural language processing. M
 
 2. **[Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)**
 
-This competition involves classifying handwritten Bengali Graphemes using a CNN. The model got me a score of 0.9316  although I could not submit it to the comeptition as it was over earlier :( 
+This competition involves classifying handwritten Bengali Graphemes using a CNN. The model got me a score of 0.9316 after about half an hour of training.  
